@@ -1,0 +1,2 @@
+05/28/22:
+This is the beginning of a project for The Odin Project called Recipes. In this project, I am going to build a basic recipe website. Inside should document a main index page and links to a few recipes.
